@@ -172,7 +172,7 @@ h2 {
     float: left;
     height: 200px;
     width: 200px;
-    background-image: url(../../sandbox/Basic-Portfolio/assets/images/profile_pic.jpg)
+    background-image: url("https://placehold.it/200x200")
 }
 
 #rpg {
@@ -181,7 +181,7 @@ h2 {
     float: left;
     height: 200px;
     width: 200px;
-    background-image: url(../../sandbox/Basic-Portfolio/assets/images/profile_pic.jpg)
+    background-image: url("https://placehold.it/200x200")
 }
 
 #trivia {
@@ -190,7 +190,7 @@ h2 {
     float: left;
     height: 200px;
     width: 200px;
-    background-image: url(../../sandbox/Basic-Portfolio/assets/images/profile_pic.jpg)
+    background-image: url("https://placehold.it/200x200")
 }
 
 #rutgers {
@@ -200,7 +200,7 @@ h2 {
     float: left;
     height: 200px;
     width: 200px;
-    background-image: url(../../sandbox/Basic-Portfolio/assets/images/profile_pic.jpg)
+    background-image: url("https://placehold.it/200x200")
 }
 
 #rock {
@@ -209,7 +209,7 @@ h2 {
     float: left;
     height: 200px;
     width: 200px;
-    background-image: url(../../sandbox/Basic-Portfolio/assets/images/profile_pic.jpg)
+    background-image: url("https://placehold.it/200x200")
 }
 
 .banner {
